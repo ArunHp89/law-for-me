@@ -1,0 +1,32 @@
+{
+  "legalslider": [
+    {
+      "title": "Business Health Check",
+      "image": "./assets/images/slider1.png"
+    },
+    {
+      "title": "Commercial Law",
+      "image": "./assets/images/slider1.png"
+    },
+    {
+      "title": "Employment Law",
+      "image": "./assets/images/slider1.png"
+    },
+    {
+      "title": "Property Law",
+      "image": "./assets/images/slider1.png"
+    },
+    {
+      "title": "Corporate Law",
+      "image": "./assets/images/slider1.png"
+    },
+    {
+      "title": "Business Health Check",
+      "image": "./assets/images/slider1.png"
+    },
+    {
+      "title": "Commercial Law",
+      "image": "./assets/images/slider1.png"
+    }
+  ]
+}
