@@ -1,13 +1,45 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: testGeograph-light;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@font-face {
+  font-family: testGeograph-black;
+  src: url("../public/test-geograph-font/TestGeograph-Black.otf");
+}
+@font-face {
+  font-family: testGeograph-blackItalic;
+  src: url("../public/test-geograph-font/TestGeograph-BlackItalic.otf");
+}
+@font-face {
+  font-family: testGeograph-bold;
+  src: url("../public/test-geograph-font/TestGeograph-Bold.otf");
+}
+@font-face {
+  font-family: testGeograph-boldItalic;
+  src: url("../public/test-geograph-font/TestGeograph-BoldItalic.otf");
+}
+@font-face {
+  font-family: testGeograph-light;
+  src: url("../public/test-geograph-font/TestGeograph-Light.otf");
+}
+@font-face {
+  font-family: testGeograph-regularItalic;
+  src: url("../public/test-geograph-font/TestGeograph-RegularItalic.otf");
+}
+@font-face {
+  font-family: testGeograph-medium;
+  src: url("../public/test-geograph-font/TestGeograph-Medium.otf");
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+h1,
+h2,
+h3,
+h4 {
+  font-family: testGeograph-medium;
 }
