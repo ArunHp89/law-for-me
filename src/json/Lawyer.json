@@ -1,0 +1,32 @@
+{
+  "lawyer": [
+    {
+      "image": "../../assets/images/lawyer1.png",
+      "name": "Kishan Bhatt",
+      "position": "Founder",
+      "description": "Cricketer and Chef",
+      "eduction": "BSc (Hons) European Politics"
+    },
+    {
+      "image": "../../assets/images/lawyer1.png",
+      "name": "Komal Vyas",
+      "position": "Legal Inter",
+      "description": "Lorem Ipsum",
+      "eduction": "LLB (Hons) Law with BA Philosophy"
+    },
+    {
+      "image": "../../assets/images/lawyer1.png",
+      "name": "Bhavika Vithlani",
+      "position": "Trainee Solicitor",
+      "description": "Baker",
+      "eduction": "LLB (Hons) Law"
+    },
+    {
+      "image": "../../assets/images/lawyer1.png",
+      "name": "Vishal Makol",
+      "position": "Consultant Solicitor",
+      "description": "Cricketer and Chef",
+      "eduction": "BSc (Hons) European Politics"
+    }
+  ]
+}
